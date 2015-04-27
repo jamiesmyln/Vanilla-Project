@@ -1,6 +1,6 @@
-#Vanilla Project Setup
+#Pet Project
 ---
 ###About
-Base styles for new projects. Includes bootstrap-material, gulp, and font awesome.
+Virtual pet for practicing JS
 
 	
