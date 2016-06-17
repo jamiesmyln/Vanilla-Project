@@ -1,6 +1,3 @@
-#Pet Project
----
-###About
-Virtual pet for practicing JS
+#Vanilla Template for new websites
 
-	
+##Derp
